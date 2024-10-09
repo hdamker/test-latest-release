@@ -1,6 +1,6 @@
 # test-latest-release
 Just for test purposes
 
-Version: 0.2.0
+Version: 0.3.0-alpha.1
 
-Public release within the second release cycle (r2.3), merged on main.
+First alpha for the third meta-release cycle (r3.1)
